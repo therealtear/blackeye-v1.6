@@ -1,7 +1,8 @@
-## BLACKEYE v1.5.1
+## BLACKEYE v1.6
 ### UPDATES :
 ##### Updated the port forwarding support to ngrok2.0
-####  FOR ANY SUGGESTION CONTACT :@suljot_gjoka or x3rz.r on Instagram!
+##### Updated a few websites that were using older versions of themselves
+####  FOR ANY SUGGESTIONS CONTACT :@suljot_gjoka on Instagram! or tear#1011 on Discord
 ####  From @An0nUD4Y (https://github.com/An0nUD4Y/blackeye)
 
 
@@ -37,7 +38,7 @@ Facebook,Google,SnapChat,Twitter,Microsoft
 PayPal,eBay,CryptoCurrency,Verizon,Drop Box,Adobe ID,Shopify,Messenger,TwitchMyspace,Badoo,VK,Yandex,devianART
 
 #### Description
-BLACKEYE is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE. It is the most complete Phishing Tool,  with 32 templates +1 customizable
+BLACKEYE is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE. It is the most complete Phishing Tool,  with 38 templates +1 customizable
 
 ## Legal disclaimer:
 Usage of BlackEye for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes.
@@ -45,7 +46,7 @@ Usage of BlackEye for attacking targets without prior mutual consent is illegal.
 
 ### Usage:
 ```
-git clone https://github.com/x3rz/blackeye.git
+git clone https://github.com/therealtear/blackeye-v1.6.git
 cd blackeye
 bash blackeye.sh
 ./ngrok authtoken <your_auth_token>
@@ -57,7 +58,3 @@ https://youtu.be/ydd14SvJaaU
 #### Note: 
 Verify your key from ngrok is important.
 
-### Donate!
-Support the authors:
-
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
